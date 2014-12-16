@@ -5,5 +5,5 @@ Full featured CalDav library in Lua. Still in development, not ready for use. Pu
 ## Prerequisities
 
 ```bash
-luarock install curl
+luarocks install lua-curl
 ```
